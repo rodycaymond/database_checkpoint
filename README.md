@@ -1,6 +1,6 @@
 # database_checkpoint
 CHALLENGE 1:
-![alttext]()
+![alttext](https://github.com/rodycaymond/database_checkpoint/blob/main/challenges/Screen%20Shot%202021-08-11%20at%2010.55.48%20AM.png)
 CHALLENGE 2:
 ![alttext]()
 CHALLENGE 3:
